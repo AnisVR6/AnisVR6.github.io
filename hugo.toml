@@ -2,4 +2,4 @@ baseURL = 'http://example.org/'
 
 title = "Le Block"
 languageCode = "fr-fr"
-theme = 'lightbi-hugo'
+theme = 'meme'
