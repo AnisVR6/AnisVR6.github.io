@@ -98,17 +98,17 @@ uglyURLs = false
 # Author’s information
 [author]
     # Name
-    name = "reuixiy"
+    name = "Anisse"
     # Email
-    email = "reuixiy@gmail.com"
+    email = "hamineanisse@gmail.com"
     # Motto or introduction
-    motto = "Viva La Vida"
+    motto = "Expert en tout mais surtout en rien"
     # Avatar
     avatar = "/icons/apple-touch-icon.png"
     # Personal website, default: baseURL
-    website = "https://io-oi.me/"
+    website = "https://anisvr6.github.io/"
     # Twitter
-    twitter = "reuixiy"
+    twitter = "AnisVR6"
 
 # Related content
 [related]
@@ -359,7 +359,7 @@ uglyURLs = false
     siteLogo = "/icons/apple-touch-icon.png"
     # Note: used for JSON-LD, Open Graph
 
-    siteDescription = "MemE is a powerful and highly customizable GoHugo theme for personal blogs."
+    siteDescription = "Je parle de tout mais surtout de rien."
     # Note: used for HTML head meta, JSON-LD,
     #       Open Graph, Atom, RSS
 
@@ -367,7 +367,7 @@ uglyURLs = false
     # ATTENTION: keep this format, change
     #            the number
 
-    siteTwitter = "reuixiy"
+    siteTwitter = "AnisVR6"
     # Note: used for Twitter Cards
 
 
@@ -1202,10 +1202,10 @@ uglyURLs = false
     shareOnFacebook = true
     shareOnLinkedIn = true
     shareOnTelegram = true
-    shareOnWeibo = true
-    shareOnDouban = true
-    shareOnQQ = true
-    shareOnQzone = true
+    shareOnWeibo = false
+    shareOnDouban = false
+    shareOnQQ = false
+    shareOnQzone = false
 
     shareViaQRCode = true
 
