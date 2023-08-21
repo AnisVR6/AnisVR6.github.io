@@ -1,5 +1,5 @@
 baseURL = 'https://anisvr6.github.io/'
 
 title = "Le Block"
-languageCode = "fr"
+languageCode = "en"
 theme = 'meme'

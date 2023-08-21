@@ -1,9 +1,9 @@
 ##########################################
 # Site Settings
 
-abaseURL = "https://anisvr6.github.io/"
+baseURL = "https://anisvr6.github.io/"
 title = "Le Block"
-languageCode = "fr"
+languageCode = "en"
 hasCJKLanguage = false
 # Copyright information (Markdown supported)
 copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
