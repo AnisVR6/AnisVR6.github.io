@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://example.com/"
+abaseURL = "https://anisvr6.github.io/"
 title = "Le Block"
 languageCode = "fr"
 hasCJKLanguage = false
