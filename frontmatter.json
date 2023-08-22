@@ -51,8 +51,12 @@
   "frontMatter.preview.host": "http://localhost:1313",
   "frontMatter.content.pageFolders": [
     {
-      "title": "archetypes",
-      "path": "[[workspace]]/archetypes"
+      "title": "content",
+      "path": "[[workspace]]/content"
+    },
+    {
+      "title": "Articles images",
+      "path": "[[workspace]]/static/Articles"
     }
   ],
   "frontMatter.taxonomy.tags": [],
