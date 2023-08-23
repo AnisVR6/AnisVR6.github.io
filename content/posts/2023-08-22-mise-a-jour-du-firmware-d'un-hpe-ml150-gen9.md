@@ -136,3 +136,9 @@ On attend la fin de la mise à jour.
 Une fois finie, on se retrouve avec cet écran récapitulatif où on peut voir si tout s'est passé correctement et accéder aux journaux pour le débogage si un composant ne s'est pas mis à jour. On clique sur "Reboot" pour finaliser tout ça.
 
 ![Écran récapitulatif de la mise à jour](/Articles/2023-08-22-mise-a-jour-du-firmware-d'un-hpe-ml150-gen9/Pasted%20image%2020230822221752.png)
+
+
+
+Nous voilà avec un serveur à jour au niveau du firmware et du BIOS. Il ne nous reste plus qu'à effectuer la mise à niveau des composants et à passer à l'installation du système. Je détaillerai tout cela dans d'autres articles.
+
+À bientôt.
