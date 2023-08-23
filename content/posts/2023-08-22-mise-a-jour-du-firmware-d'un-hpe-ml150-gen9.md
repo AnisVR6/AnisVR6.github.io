@@ -3,10 +3,31 @@ title: Mise a jour du firmware d'un HPE ML150 gen9
 description: ""
 date: 2023-08-22T20:46:27.707Z
 preview: null
-draft: true
+draft: false
 tags: [hpe,serveur,homelab,tutoriel]
 categories: [Homelab]
 ---
+
+## Intro
+
+Il y a quelques jours, j'ai eu la chance de mettre la main sur un lot de deux serveurs d'occase,
+![photo des serveurs sur le bullitt](/Articles/2023-08-22-mise-a-jour-du-firmware-d'un-hpe-ml150-gen9/srvXbullitt.png)
+un HPE ProLiant ML150 Gen9 en dual socket LGA2011-3 mais équipé que d'un seul Xeon E5-2609v4 à 8 cœurs et 16 threads. Je prévois de le remplacer par un Xeon E5-2690v4, qui est en 14 cœurs et 28 threads, et peut-être d'ajouter un second processeur à l'avenir. Il est également équipé de 48 Go de RAM DDR4 ECC.
+
+![HPE ProLiant ML150 Gen9](/Articles/2023-08-22-mise-a-jour-du-firmware-d'un-hpe-ml150-gen9/hpe.jpeg)
+
+Ensuite, il y a un Fujitsu Server PRIMERGY TX150 S8, qui est équipé d'un Xeon E5-2403 à 4 cœurs et 4 threads, ainsi que de 8 Go de RAM DDR3 ECC. Cette machine est un peu limitée en termes de performances, je doute que je lui trouverai une utilisation. Malheureusement, ces serveurs étaient vendus en lot, ce qui signifie que je me retrouve avec un "cale-porte" encombrant.
+
+## Le projet
+
+Comme vous pouvez l'imaginer, je vais principalement utiliser le HPE ProLiant ML150 Gen9, qui rejoindra mon HomeLab. Sur ce serveur, je prévois d'installer un hyperviseur Proxmox 8, ainsi que Docker et Portainer pour avoir une interface propre et conviviale pour gérer les conteneurs.
+
+Avant de pouvoir réaliser ce projet, je vais devoir effectuer quelques mises à niveau :
+- Remplacer le CPU actuel par le Xeon E5-2690v4.
+- Installer un SSD NVMe à l'aide d'un adaptateur M.2 vers PCIe, car il n'y a pas de slot M.2 disponible.
+- Imprimer des caddy pour pouvoir installer mes trois disques SAS.
+
+Cependant, avant de procéder à ces étapes, la première étape essentielle est de mettre à jour le firmware du serveur HPE.
 
 ## Création d'une clé USB bootable
 

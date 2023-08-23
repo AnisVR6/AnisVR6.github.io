@@ -98,7 +98,7 @@ uglyURLs = false
 # Author’s information
 [author]
     # Name
-    name = "Anisse"
+    name = "Anisse Hamine"
     # Email
     email = "hamineanisse@gmail.com"
     # Motto or introduction
@@ -363,7 +363,7 @@ uglyURLs = false
     # Note: used for HTML head meta, JSON-LD,
     #       Open Graph, Atom, RSS
 
-    siteCreatedTime = "2022-08-17T21:16:43+00:00"
+    siteCreatedTime = "2023-08-17T21:16:43+00:00"
     # ATTENTION: keep this format, change
     #            the number
 

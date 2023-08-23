@@ -4,4 +4,7 @@ date: 2023-08-17T20:13:29+02:00
 draft: false
 ---
 
-Passionné de cyclisme et surtout de Bike-Packing, amateur de jeux vidéo, bricoleur créatif, et explorateur culinaire. Étudiant en informatique spécialisé en administration système et réseaux. Bienvenue sur mon blog où je partage mes aventures captivantes dans l'univers du homelab, ainsi que mes découvertes passionnantes des nouvelles technologies. Rejoignez-moi alors que je parcours le monde numérique et réel, tout en savourant chaque instant de création et d'apprentissage.
+
+En tant que passionné de cyclisme et particulièrement de Bike-Packing, bricoleur créatif et explorateur culinaire, je suis également étudiant en informatique, spécialisé en administration système et réseaux.
+
+Bienvenue sur Le Block, où je partage mes aventures passionnantes dans l'univers du homelab, des recettes de cuisine de temps en temps, voire même mes futures aventures en Bike-Packing. Rejoignez-moi alors que je parcours à la fois le monde numérique et le monde réel, tout en savourant chaque instant de création et d'apprentissage.
