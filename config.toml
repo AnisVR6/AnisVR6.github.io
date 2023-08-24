@@ -662,11 +662,11 @@ uglyURLs = false
     autoLoadComments = false
 
     ## Disqus
-    enableDisqus = false
-    disqusShortname = ""
+    enableDisqus = true
+    disqusShortname = "https://anisseh.disqus.com"
 
     ## Valine
-    enableValine = true
+    enableValine = false
     valineAppId = ""
     valineAppKey = ""
     valinePlaceholder = "Just go go"
@@ -679,7 +679,7 @@ uglyURLs = false
     valineHighlight = true
     valineAvatarForce = false
     valineRecordIP = false
-    valineServerURLs = "https://xcfhw8bz.api.lncldglobal.com"
+    valineServerURLs = ""
     valineEmojiCDN = ""
     valineEmojiMaps = {}
     valineEnableQQ = false
