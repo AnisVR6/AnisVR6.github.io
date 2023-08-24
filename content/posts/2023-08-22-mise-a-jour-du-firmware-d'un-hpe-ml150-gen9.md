@@ -2,7 +2,7 @@
 title: Mise a jour du firmware d'un HPE ML150 gen9
 description: ""
 date: 2023-08-22T20:46:27.707Z
-preview: /Articles/2023-08-22-mise-a-jour-du-firmware-d'un-hpe-ml150-gen9/Pasted image 20230822215323.png
+preview: /Articles/2023-08-22-mise-a-jour-du-firmware-d'un-hpe-ml150-gen9/hpe_spp.png
 draft: false
 tags:
   - hpe
@@ -12,7 +12,7 @@ tags:
 categories:
   - Homelab
 ---
-
+![](/Articles/2023-08-22-mise-a-jour-du-firmware-d'un-hpe-ml150-gen9/hpe_spp.png)
 ## Intro
 
 Il y a quelques jours, j'ai eu la chance de mettre la main sur un lot de deux serveurs d'occase,
