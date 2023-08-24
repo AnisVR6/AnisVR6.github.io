@@ -33,7 +33,7 @@ jobs:
     env:
       HUGO_VERSION: 0.117.0
     steps:
-    - name: Set Valine.js API Keys
+      - name: Set Valine.js API Keys
         run: |
           echo "valineAppId = '${{ secrets.VALINE_APP_ID }}'" >> config.toml
           echo "valineAppKey = '${{ secrets.VALINE_APP_KEY }}'" >> config.toml
