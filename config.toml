@@ -667,8 +667,8 @@ uglyURLs = false
 
     ## Valine
     enableValine = true
-    valineAppId = "{{ secrets.VALINE_APP_ID }}"
-    valineAppKey = "{{ secrets.VALINE_APP_KEY }}"
+    valineAppId = ""
+    valineAppKey = ""
     valinePlaceholder = "Just go go"
     valinePath = ""
     valineAvatar = "mm"
