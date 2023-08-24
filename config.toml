@@ -663,7 +663,7 @@ uglyURLs = false
 
     ## Disqus
     enableDisqus = true
-    disqusShortname = "https://anisseh.disqus.com"
+    disqusShortname = "anisseh"
 
     ## Valine
     enableValine = false
