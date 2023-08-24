@@ -653,7 +653,7 @@ uglyURLs = false
     # Note: render only in production
     #       environment
 
-    enableComments = false
+    enableComments = true
     # Note: *global settings*
     #       `comments` in post’s Front Matter
     #       has a higher priority than here
@@ -666,9 +666,9 @@ uglyURLs = false
     disqusShortname = ""
 
     ## Valine
-    enableValine = false
-    valineAppId = ""
-    valineAppKey = ""
+    enableValine = true
+    valineAppId = "{{ secrets.VALINE_APP_ID }}"
+    valineAppKey = "{{ secrets.VALINE_APP_KEY }}"
     valinePlaceholder = "Just go go"
     valinePath = ""
     valineAvatar = "mm"
