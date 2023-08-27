@@ -81,6 +81,5 @@ On démarre le serveur et on se connecte sur l'ILO pour voir si tout est détect
 ![SSD NVMe](/Articles/2023-08-26-upgrade-cpu,-instalation-des-disques-sas-et-ssd-nvme/chrome_IOFrNHf2ZM.png)
 
 Voilà, maintenant que la partie hardware est finalisée (pour l'instant), il ne reste plus qu'à tout configurer et à installer l'hyperviseur. Nous aborderons cela dans un prochain article.
-voila maintenan que la partie hardware est finalisé (pour l'instant) reste plus qu'a tout configurer et installer l'hyperviseur on verra ca dans un prochains article
 
 À bientôt.
