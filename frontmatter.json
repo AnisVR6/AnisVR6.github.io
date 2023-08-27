@@ -52,7 +52,7 @@
   "frontMatter.content.pageFolders": [
     {
       "title": "content",
-      "path": "[[workspace]]/content"
+      "path": "[[workspace]]/content/posts"
     },
     {
       "title": "Articles images",

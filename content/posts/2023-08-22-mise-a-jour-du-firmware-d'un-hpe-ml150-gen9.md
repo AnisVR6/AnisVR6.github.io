@@ -17,7 +17,7 @@ categories:
 ![hpe_spp](/Articles/2023-08-22-mise-a-jour-du-firmware-d'un-hpe-ml150-gen9/hpe_spp.png)
 Il y a quelques jours, j'ai eu la chance de mettre la main sur un lot de deux serveurs d'occase,
 ![photo des serveurs sur le bullitt](/Articles/2023-08-22-mise-a-jour-du-firmware-d'un-hpe-ml150-gen9/srvXbullitt.png)
-un HPE ProLiant ML150 Gen9 en dual socket LGA2011-3 mais équipé que d'un seul Xeon E5-2609v4 à 8 cœurs et 16 threads. Je prévois de le remplacer par un Xeon E5-2690v4, qui est en 14 cœurs et 28 threads, et peut-être d'ajouter un second processeur à l'avenir. Il est également équipé de 48 Go de RAM DDR4 ECC.
+un HPE ProLiant ML150 Gen9 en dual socket LGA2011-3 mais équipé que d'un seul Xeon E5-2620v4 à 8 cœurs et 16 threads. Je prévois de le remplacer par un Xeon E5-2690v4, qui est en 14 cœurs et 28 threads, et peut-être d'ajouter un second processeur à l'avenir. Il est également équipé de 48 Go de RAM DDR4 ECC.
 
 ![HPE ProLiant ML150 Gen9](/Articles/2023-08-22-mise-a-jour-du-firmware-d'un-hpe-ml150-gen9/hpe.jpeg)
 
