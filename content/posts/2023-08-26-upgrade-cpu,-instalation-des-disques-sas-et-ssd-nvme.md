@@ -64,7 +64,7 @@ J'ai retrouvé deux SSD SATA de 240 Go chacun qui traînaient chez moi. Du coup,
 Pour l'instant, ils sont fixés à l'arrache comme ça, mais je vais essayer de trouver une cage pour disque 2,5" ou d'en imprimer une.
 
 #### Caddy pour disque SAS
-Passons maintenant aux disques SAS. Le serveur est équipé d'une cage pour 4 disques SAS, mais je n'avais pas les caddies nécessaires pour y installer mes disques. J'ai donc cherché un modèle à imprimer sur [Thingiverse](https://www.thingiverse.com/thing:4577909) et j'ai trouvé celui qui me convenait.
+Passons maintenant aux disques SAS. Le serveur est équipé d'une cage pour 4 disques SAS, mais je n'avais pas les caddy nécessaires pour y installer mes disques. J'ai donc cherché un modèle à imprimer sur [Thingiverse](https://www.thingiverse.com/thing:4577909) et j'ai trouvé celui qui me convenait.
 
 ![caddy voron gif][def]
 
