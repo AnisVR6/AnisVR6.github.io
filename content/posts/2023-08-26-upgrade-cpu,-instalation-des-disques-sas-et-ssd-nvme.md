@@ -56,6 +56,13 @@ Ici, rien de plus simple que de monter le SSD sur l'adaptateur. J'avais choisi c
 Je passerai probablement à ce type d'adaptateur à l'avenir, avec 6 slots PCIe, il y a de quoi faire. Cependant, il est dommage de ne pas pouvoir exploiter la totalité des lignes PCIe de chaque slot.
 ![](/Articles/2023-08-26-upgrade-cpu,-instalation-des-disques-sas-et-ssd-nvme/IMG_2273.jpg)
 Ce qui est bien avec ce type de montage, c'est qu'une fois le fan duct installé, un flux d'air frais passera par-dessus.
+![](/Articles/2023-08-26-upgrade-cpu,-instalation-des-disques-sas-et-ssd-nvme/IMG_2292.jpg)
+
+##### SSD sata
+![](/Articles/2023-08-26-upgrade-cpu,-instalation-des-disques-sas-et-ssd-nvme/IMG_2291.jpg)
+J'ai retrouvé deux SSD SATA de 240 Go chacun qui traînaient chez moi. Du coup, je les ai installés, et ils seront configurés en RAID 1 pour y installer l'hyperviseur.
+Pour l'instant, ils sont fixés à l'arrache comme ça, mais je vais essayer de trouver une cage pour disque 2,5" ou d'en imprimer une.
+
 #### Caddy pour disque SAS
 Passons maintenant aux disques SAS. Le serveur est équipé d'une cage pour 4 disques SAS, mais je n'avais pas les caddies nécessaires pour y installer mes disques. J'ai donc cherché un modèle à imprimer sur [Thingiverse](https://www.thingiverse.com/thing:4577909) et j'ai trouvé celui qui me convenait.
 
